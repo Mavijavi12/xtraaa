@@ -1,0 +1,3 @@
+name = "xtraaa"
+main = "worker.js"
+compatibility_date = "2025-10-16"
